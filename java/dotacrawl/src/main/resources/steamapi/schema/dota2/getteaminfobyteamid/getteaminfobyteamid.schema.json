@@ -73,6 +73,14 @@
                 "type": "string",
                 "required": false
               },
+              "player_5_account_id": {
+                "type": "string",
+                "required": false
+              },
+              "player_6_account_id": {
+                "type": "string",
+                "required": false
+              },                            
               "admin_account_id": {
                 "type": "string",
                 "required": false
